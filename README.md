@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paulomllanos
-- 👀 I’m interested in developed web
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning React and TypeScript
 - 💞️ I’m looking to collaborate on freelancer
 - 📫 How to reach me paulomllanos@gmail.com
 
