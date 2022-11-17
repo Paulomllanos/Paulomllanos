@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Paulomllanos
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning React and TypeScript
-- 💞️ I’m looking to collaborate on freelancer
+- 🌱 I’m currently learning Next and TypeScript
+- 💞️ My job is Coach Instructor Fullstack
 - 📫 How to reach me paulomllanos@gmail.com
 
 <!---
