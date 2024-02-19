@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Paulo Maldonado Llanos</h1>
 <h3 align="center">A passionate fullstack developer from Chile</h3>
 
-- 🔭 I’m currently working on **Scala Learning(Universidad del Desarrollo)**
+- 🔭 I’m currently working on **Sonedi**
 
-- 🌱 I’m currently learning **NextJs and NestJs**
+- 🌱 I’m currently learning **Devops**
 
 - 🤝 I’m looking for help with **NestJs**
 
 - 👨‍💻 All of my projects are available at [https://paulomllanos-portfolio-production.up.railway.app/](https://paulomllanos-portfolio-production.up.railway.app/)
 
-- 💬 Ask me about **React, Node, Js, html, css and frameworks, MongoDB, Express, and Mongoose**
+- 💬 Ask me about **All web**
 
 - 📫 How to reach me **paulomllanos@gmail.com**
 
