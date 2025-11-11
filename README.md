@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Paulo Maldonado Llanos</h1>
-<h3 align="center">A passionate fullstack developer from Chile</h3>
+<h3 align="center">A passionate Softtware Architect from Chile</h3>
 
 - 🔭 I’m currently working on **Sonedi**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Architecture solutions**
 
-- 🤝 I’m looking for help with **NestJs**
+- 🤝 I’m looking for help with **AI Automatization**
 
 - 👨‍💻 All of my projects are available at [https://paulomllanos-portfolio-production.up.railway.app/](https://paulomllanos-portfolio-production.up.railway.app/)
 
-- 💬 Ask me about **All web**
+- 💬 Ask me about **All**
 
 - 📫 How to reach me **paulomllanos@gmail.com**
 
